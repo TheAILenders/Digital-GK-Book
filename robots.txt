@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://theailenders.github.io/Digital-GK-Book/sitemap.xml
